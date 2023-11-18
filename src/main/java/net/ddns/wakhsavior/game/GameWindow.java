@@ -1,4 +1,4 @@
-package net.ddns.wakhsavior;
+package net.ddns.wakhsavior.game;
 
 import javax.swing.*;
 import java.awt.*;
@@ -21,7 +21,6 @@ public class GameWindow extends JFrame {
         setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         setTitle("TicTacToe");
         setResizable(false);
-
 
         map = new Map();
         settings = new SettingsWindow(this); //Объек в качестве ссылки передает себя

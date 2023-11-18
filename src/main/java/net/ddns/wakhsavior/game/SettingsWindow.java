@@ -1,4 +1,4 @@
-package net.ddns.wakhsavior;
+package net.ddns.wakhsavior.game;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
@@ -6,6 +6,7 @@ import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
 /*
 Первое задание – добавить на экран компоновщик-сетку с одним столбцом и добавить над существующей
  кнопкой следующие компоненты в заданном порядке: JLabel с заголовком «Выберите режим игры»,
@@ -29,8 +30,6 @@ JSlider со значениями 3..10.
 вызова метода старта игры на текущие показания компонентов (какая радио-кнопка
 активна, значение слайдера размеров поля, значение слайдера выигрышной длины).
 */
-
-
 
 public class SettingsWindow extends JFrame {
 

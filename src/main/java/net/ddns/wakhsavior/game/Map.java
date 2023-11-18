@@ -1,4 +1,4 @@
-package net.ddns.wakhsavior;
+package net.ddns.wakhsavior.game;
 
 import javax.swing.*;
 import java.awt.*;
@@ -71,7 +71,6 @@ public class Map extends JPanel {
         }
         return false;
     }
-
 
     void startNewGame(int mode, int fSzX, int fSzY, int wLen) {
         fieldSizeY = fSzY;
