@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.ddns.wakhsavior.developers_command.Main",
+            "projectName": "Java_JDK_ff25f84d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.ddns.wakhsavior.game.Main",
+            "projectName": "Java_JDK_ff25f84d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.ddns.wakhsavior.server.Main",
+            "projectName": "Java_JDK_ff25f84d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.ddns.wakhsavior.game.Main",
+            "projectName": "GB_JDK"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.ddns.wakhsavior.server.Main",
+            "projectName": "GB_JDK"
+        }
+    ]
+}
