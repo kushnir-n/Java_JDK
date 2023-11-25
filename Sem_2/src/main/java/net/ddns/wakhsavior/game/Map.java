@@ -13,7 +13,7 @@ public class Map extends JPanel {
     private static final int STATE_DRAW = 0;
     private static final int STATE_WIN_HUMAN = 1;
     private static final int STATE_WIN_AI = 2;
-    private static final String MSG_WIN_HUMAN = "Победил игрок!";
+    private static final String MSG_WIN_HUMAN = "Победил игрок! Ура";
     private static final String MSG_WIN_AI = "Победил компьютер!";
     private static final String MSG_DRAW = "Ничья!";
     private final int HUMAN_DOT = 1;
