@@ -1,4 +1,31 @@
-23/11/18 17:48:07 Nata : Hi
-23/11/18 17:48:10 Nata : My
-23/11/18 17:48:13 Nata : Dear
-23/11/18 17:48:17 Nata : Friend
+Server is already running 23/11/25 16:40:40 
+Server is not running 23/11/25 16:40:40 
+Server is not running 23/11/25 16:40:40 
+Server is not running 23/11/25 16:40:40 
+Server is not running 23/11/25 16:40:40 
+Server is not running 23/11/25 16:40:50 
+Server status: true 23/11/25 16:40:51 
+Server is already running 23/11/25 16:40:51 
+Server is already running 23/11/25 16:40:51 
+Server is already running 23/11/25 16:40:51 
+Server is already running 23/11/25 16:40:52 
+Server is already running 23/11/25 16:40:55 
+Server is already running 23/11/25 16:40:57 
+Server is already running 23/11/25 16:40:58 
+Server is already running 23/11/25 16:40:58 
+Server is already running23/11/25 16:41:05  : привкт
+23/11/25 16:41:11  : 
+23/11/25 16:41:12  : 
+23/11/25 16:41:14  : ппп
+23/11/25 16:41:19  : пппп
+ 23/11/25 18:32:48 
+Server status: true 23/11/25 18:32:48 
+Server is already running 23/11/25 18:32:48 
+Server is already running 23/11/25 18:32:50 
+Server is already running 23/11/25 18:32:51 
+Server is already running 23/11/25 18:32:52 
+Server status: false 23/11/25 18:32:52 
+Server is not running 23/11/25 18:32:52 
+Server is not running 23/11/25 18:32:52 
+Server is not running 23/11/25 18:32:52 
+Server is not running
